@@ -60,6 +60,6 @@ Users should be able to:
 
 ## Acknowledgments
 
-All thanks to Frontend Mentor for sharing this project challenge. They've helped practise my Frontend skills.
+All thanks to Frontend Mentor for sharing this project challenge. They've helped me practise my Frontend skills.
 
 **Thanks for checking out my project**
